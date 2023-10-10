@@ -1,7 +1,9 @@
 {
   "name": "abyssibility",
   "displayName": "abyssibility",
-  "description": "Abyss theme but with better color contrast",
+  "description": "Abyss theme, but with increased color contrast",
+  "publisher": "kyle-rb",
+  "icon": "abyssibility-icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/kyle-rb/abyssibility.git"
