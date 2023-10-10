@@ -1,0 +1,21 @@
+{
+  "name": "abyssibility",
+  "displayName": "abyssibility",
+  "description": "Abyss theme but with better color contrast",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Abyssibility",
+        "uiTheme": "hc-black",
+        "path": "./themes/Abyssibility-color-theme.json"
+      }
+    ]
+  }
+}
