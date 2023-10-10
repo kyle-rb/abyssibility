@@ -3,7 +3,7 @@
 		{
 			"settings": {
 				"background": "#000000",
-				"foreground": "#d8e8f0"
+				"foreground": "#e0e4fc"
 			}
 		},
 		{
@@ -162,7 +162,7 @@
 			"settings": {
 				"background": "#f82070",
 				"fontStyle": "",
-				"foreground": "#f8F8f0"
+				"foreground": "#f8f8f0"
 			}
 		},
 		{
@@ -170,14 +170,14 @@
 			"scope": "invalid.deprecated",
 			"settings": {
 				"background": "#a080ff",
-				"foreground": "#f8F8f0"
+				"foreground": "#f8f8f0"
 			}
 		}
 	],
 	"colors": {
 		"editor.background": "#000000",
 		"editorCursor.foreground": "#dcd860",
-		"editor.foreground": "#d8e8f0",
+		"editor.foreground": "#e0e4fc",
 		"editorWhitespace.foreground": "#002040",
 		"editor.lineHighlightBackground": "#081020",
 		"editor.selectionBackground": "#700850"
