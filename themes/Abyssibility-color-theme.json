@@ -10,14 +10,14 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#409050"
+				"foreground": "#40ac94"
 			}
 		},
 		{
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#38d064"
+				"foreground": "#38d078"
 			}
 		},
 		{
@@ -55,7 +55,7 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#4068dc"
+				"foreground": "#3c7cf4"
 			}
 		},
 		{
@@ -63,7 +63,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#4068e0"
+				"foreground": "#3c7cf4"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#4068e0"
+				"foreground": "#3c7cf4"
 			}
 		},
 		{
@@ -180,7 +180,12 @@
 		"editor.foreground": "#e0e4fc",
 		"editorWhitespace.foreground": "#002040",
 		"editor.lineHighlightBackground": "#081020",
-		"editor.selectionBackground": "#700850"
+		"editor.selectionBackground": "#98d0cc",
+		"contrastBorder": "#74609c",
+		"contrastActiveBorder": "#a0f0d0",
+		"editor.findMatchBorder": "#b0c0d0",
+		"editorLineNumber.activeForeground": "#dcd860",
+		"sash.hoverBorder": "#a0f0d0"
 	},
 	"name": "Abyssibility"
 }
